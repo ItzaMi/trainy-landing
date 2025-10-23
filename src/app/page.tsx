@@ -24,7 +24,7 @@ export default function Home() {
               Trainy: Train Identifier app 
             </h1>
             <p className="text-lg md:text-2xl text-gray-600 mb-6">
-            Spot, snap, and identify any train in seconds with Trainy, your pocket-sized rail companion, whether you're a casual traveler or lifelong railfan.
+            Spot, snap, and identify any train in seconds with Trainy, your pocket-sized rail companion, whether you&apos;re a casual traveler or lifelong railfan.
             </p>
             <a href="https://apps.apple.com/us/app/trainy-train-identifier/id6754334410" className="inline-block">
               <Image 
@@ -94,12 +94,12 @@ export default function Home() {
           
           <div className="prose prose-base md:prose-lg mx-auto text-gray-700 max-w-none">
             <p className="text-lg md:text-xl mb-6 md:mb-8 text-left">
-              Spot, snap, and identify any train in seconds with Trainy, your pocket-sized rail companion. Whether you're a casual traveler or lifelong railfan, Trainy helps you recognize, catalog, and learn about locomotives from around the world.
+              Spot, snap, and identify any train in seconds with Trainy, your pocket-sized rail companion. Whether you&apos;re a casual traveler or lifelong railfan, Trainy helps you recognize, catalog, and learn about locomotives from around the world.
             </p>
 
             <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 md:mb-6">INSTANT IDENTIFICATION</h3>
             <p className="mb-4 text-left">
-              Take a photo or upload one from your gallery — get the train's model, class, country, and operator instantly.
+              Take a photo or upload one from your gallery — get the train&apos;s model, class, country, and operator instantly.
             </p>
             <p className="mb-6 md:mb-8 text-left">
               Our AI compares design features, markings, and profiles to deliver accurate matches in seconds.
@@ -115,7 +115,7 @@ export default function Home() {
             </ul>
 
             <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4 md:mb-6">YOUR RAIL LOGBOOK</h3>
-            <p className="mb-4 text-left">Keep track of every train you've spotted:</p>
+            <p className="mb-4 text-left">Keep track of every train you&apos;ve spotted:</p>
             <ul className="space-y-2 md:space-y-3 mb-6 md:mb-8">
               <li>• Save photos with date and details</li>
               <li>• Browse your collection anytime</li>
